@@ -1,20 +1,24 @@
-## Axios Resolver
-This is a simple project which simulates a request screen like insomnia or postman for testing and using axios attributes.
+
+# Axios Resolver
+
+This project simulates a request screen similar to Insomnia or Postman, designed for testing and utilizing Axios attributes. It provides an intuitive interface for sending HTTP requests, managing responses, and experimenting with various Axios configurations.
 
 ## Project Setup
 
-```sh
-npm install
-```
+1. **Install dependencies:**
 
-### Compile and Hot-Reload for Development
+    ```sh
+    npm install
+    ```
 
-```sh
-npm run dev
-```
+2. **Compile and Hot-Reload for Development:**
 
-### Compile and Minify for Production
+    ```sh
+    npm run dev
+    ```
 
-```sh
-npm run build
-```
+3. **Compile and Minify for Production:**
+
+    ```sh
+    npm run build
+    ```
